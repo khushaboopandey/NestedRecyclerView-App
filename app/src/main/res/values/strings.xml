@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NestedRecycler View</string>
+    <string name="heading">Movies RecyclerView</string>
+</resources>
